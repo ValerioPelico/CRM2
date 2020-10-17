@@ -1,0 +1,6 @@
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVista.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVista.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.pdb

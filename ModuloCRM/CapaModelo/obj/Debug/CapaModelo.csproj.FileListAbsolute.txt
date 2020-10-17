@@ -1,0 +1,6 @@
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaModelo\obj\Debug\CapaModelo.pdb
