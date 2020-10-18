@@ -4,3 +4,14 @@ D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo C
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.dll
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCotizacion.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.Cotizaciones.frmEmpleado.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControlador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModelo.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.Cotizaciones.frmProducto.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCliente.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmVendedor.resources
