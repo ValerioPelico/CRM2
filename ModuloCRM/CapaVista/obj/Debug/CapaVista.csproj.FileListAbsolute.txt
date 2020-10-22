@@ -15,3 +15,4 @@ D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo C
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.Cotizaciones.frmProducto.resources
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCliente.resources
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmVendedor.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources

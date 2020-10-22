@@ -60,9 +60,9 @@ namespace CapaVista.Formularios.Cotizaciones
             if (!(cod == ""))
             {
                 frmCotizacion ct = new frmCotizacion();
-                ct.txt_cod_prod.Text = txt_cod_p.Text;
-                ct.txt_nom_prod.Text = txt_nom_p.Text;
-                ct.txt_prec_prod.Text = txt_precio_p.Text;
+                ct.txtCodProd.Text = txt_cod_p.Text;
+                ct.txtNomProd.Text = txt_nom_p.Text;
+                ct.txtPrecProd.Text = txt_precio_p.Text;
                 MessageBox.Show("Agregado");
                 ct.Show();
                 this.Hide();

@@ -28,16 +28,16 @@ namespace CapaVista.Formularios
         public void actualizardatagriew()
         {
             DataTable dt = cn.llenarTbl(emp);
-            dgv_cliente.DataSource = dt;
+            dgvCliente.DataSource = dt;
 
         }
 
         private void btn_limp_Click(object sender, EventArgs e)
         {
-            txt_ap_cli.Text = "";
-            txt_cod_cli.Text = "";
-            txt_fec_cli.Text = "";
-            txt_nom_cli.Text = "";
+            txtApeCli.Text = "";
+            txtCodCli.Text = "";
+            txtFecCli.Text = "";
+            txtNomCli.Text = "";
         }
     }
 }

@@ -57,8 +57,8 @@ namespace CapaVista.Formularios.Cotizaciones
 
             if (!(cod == "")) {
                 frmCotizacion ct = new frmCotizacion();
-                ct.txt_cod_emp.Text = txt_codemp.Text;
-                ct.txt_nom_emp.Text = txt_nomemp.Text;
+                ct.txtCodEmp.Text = txt_codemp.Text;
+                ct.txtNomEmp.Text = txt_nomemp.Text;
                 MessageBox.Show("Agregado");
                 ct.Show();
                 this.Hide();

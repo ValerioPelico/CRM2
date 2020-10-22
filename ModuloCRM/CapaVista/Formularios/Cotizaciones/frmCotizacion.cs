@@ -16,11 +16,11 @@ namespace CapaVista.Formularios
         public frmCotizacion()
         {
             InitializeComponent();
-            txt_cod_emp.Enabled = false;
-            txt_nom_emp.Enabled = false;
-            txt_cod_prod.Enabled = false;
-            txt_nom_prod.Enabled = false;
-            txt_prec_prod.Enabled = false;
+            txtCodEmp.Enabled = false;
+            txtNomEmp.Enabled = false;
+            txtCodProd.Enabled = false;
+            txtNomProd.Enabled = false;
+            txtPrecProd.Enabled = false;
 
         }
 
