@@ -58,11 +58,54 @@ namespace CapaVista.Formularios.Cotizaciones
             if (!(cod == "")) {
                 frmCotizacion ct = new frmCotizacion();
                 ct.txtCodEmp.Text = txt_codemp.Text;
-                ct.txtNomEmp.Text = txt_nomemp.Text;
+                ct.txt_nomemp.Text = txt_nomemp.Text;
                 MessageBox.Show("Agregado");
                 ct.Show();
                 this.Hide();
             }
+        }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+            List<string> CamposTabla = new List<string>();
+            List<Control> lista = new List<Control>();
+            //el numero de aplicacion se debe cambiar por el numero asignado en la base de datos 
+            navegador1.aplicacion = 1;
+            //banco se debe cambiar por la tabla a la que se quiere hacer el mantenimiento
+            navegador1.tbl = "banco";
+            //estado_banco se debe cambiar por el estado de la tabla a la que se desea hacer mantenimiento
+            navegador1.campoEstado = "estado_banco";
+            //navegador1.MDIformulario = FormularioPadre;
+            foreach (Control C in this.Controls)
+            {
+                if ((C.Tag != null) && (!C.Tag.ToString().Equals("")))
+                {
+                    if (C is TextBox)
+                    {
+                        lista.Add(C);
+
+                    }
+                    else if (C is ComboBox)
+                    {
+                        lista.Add(C);
+
+                    }
+                    else if (C is DateTimePicker)
+                    {
+                        lista.Add(C);
+                    }
+                }
+            }
+            navegador1.control = lista;
+            navegador1.formulario = this;
+            //el dataGridView1 se debe cambiar por el que se tiene en el formulario
+            navegador1.DatosActualizar = dgv_emp;
+            navegador1.procActualizarData();
+            navegador1.procCargar();
+            //en la variable ayuda ruta debe colocar la carpeta y el archivo.chm de su proyecto de ayuda
+            navegador1.ayudaRuta = "AyudasSeguridad/Modulo/ayuda.chm";
+            //en ruta debe colocar la pagina html que quiere que se muestre cuendo se presione el boton ayuda
+            navegador1.ruta = "Ayuda-Modulo.html";
         }
     }
 }

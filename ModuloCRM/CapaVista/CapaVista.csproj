@@ -34,6 +34,9 @@
     <Reference Include="CapaControlador">
       <HintPath>..\CapaControlador\bin\Debug\CapaControlador.dll</HintPath>
     </Reference>
+    <Reference Include="CapaVistaNavegador">
+      <HintPath>..\..\..\..\Navegador\Navegador\Navegador\Navegador\CapaVista\bin\Debug\CapaVistaNavegador.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -76,6 +79,12 @@
     <Compile Include="Formularios\frmVendedor.Designer.cs">
       <DependentUpon>frmVendedor.cs</DependentUpon>
     </Compile>
+    <Compile Include="MDIPadre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIPadre.Designer.cs">
+      <DependentUpon>MDIPadre.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -101,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmVendedor.resx">
       <DependentUpon>frmVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIPadre.resx">
+      <DependentUpon>MDIPadre.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

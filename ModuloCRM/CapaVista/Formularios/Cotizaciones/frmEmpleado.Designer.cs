@@ -37,13 +37,14 @@
             this.txt_codemp = new System.Windows.Forms.TextBox();
             this.btn_bus = new System.Windows.Forms.Button();
             this.btn_bus_todo = new System.Windows.Forms.Button();
+            this.navegador1 = new CapaVistaNavegador.Navegador();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_emp)).BeginInit();
             this.SuspendLayout();
             // 
             // dgv_emp
             // 
             this.dgv_emp.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv_emp.Location = new System.Drawing.Point(12, 186);
+            this.dgv_emp.Location = new System.Drawing.Point(23, 354);
             this.dgv_emp.Name = "dgv_emp";
             this.dgv_emp.RowHeadersWidth = 51;
             this.dgv_emp.RowTemplate.Height = 24;
@@ -53,7 +54,7 @@
             // 
             // btn_ag_emp
             // 
-            this.btn_ag_emp.Location = new System.Drawing.Point(486, 150);
+            this.btn_ag_emp.Location = new System.Drawing.Point(497, 318);
             this.btn_ag_emp.Name = "btn_ag_emp";
             this.btn_ag_emp.Size = new System.Drawing.Size(94, 30);
             this.btn_ag_emp.TabIndex = 1;
@@ -63,7 +64,7 @@
             // 
             // btn_limpiar
             // 
-            this.btn_limpiar.Location = new System.Drawing.Point(626, 150);
+            this.btn_limpiar.Location = new System.Drawing.Point(637, 318);
             this.btn_limpiar.Name = "btn_limpiar";
             this.btn_limpiar.Size = new System.Drawing.Size(95, 30);
             this.btn_limpiar.TabIndex = 2;
@@ -74,7 +75,7 @@
             // lbl_nomemp
             // 
             this.lbl_nomemp.AutoSize = true;
-            this.lbl_nomemp.Location = new System.Drawing.Point(13, 94);
+            this.lbl_nomemp.Location = new System.Drawing.Point(24, 262);
             this.lbl_nomemp.Name = "lbl_nomemp";
             this.lbl_nomemp.Size = new System.Drawing.Size(58, 17);
             this.lbl_nomemp.TabIndex = 3;
@@ -83,7 +84,7 @@
             // lbl_codemp
             // 
             this.lbl_codemp.AutoSize = true;
-            this.lbl_codemp.Location = new System.Drawing.Point(16, 33);
+            this.lbl_codemp.Location = new System.Drawing.Point(27, 201);
             this.lbl_codemp.Name = "lbl_codemp";
             this.lbl_codemp.Size = new System.Drawing.Size(52, 17);
             this.lbl_codemp.TabIndex = 4;
@@ -91,21 +92,21 @@
             // 
             // txt_nomemp
             // 
-            this.txt_nomemp.Location = new System.Drawing.Point(90, 94);
+            this.txt_nomemp.Location = new System.Drawing.Point(101, 262);
             this.txt_nomemp.Name = "txt_nomemp";
             this.txt_nomemp.Size = new System.Drawing.Size(184, 22);
             this.txt_nomemp.TabIndex = 5;
             // 
             // txt_codemp
             // 
-            this.txt_codemp.Location = new System.Drawing.Point(90, 33);
+            this.txt_codemp.Location = new System.Drawing.Point(101, 201);
             this.txt_codemp.Name = "txt_codemp";
             this.txt_codemp.Size = new System.Drawing.Size(184, 22);
             this.txt_codemp.TabIndex = 6;
             // 
             // btn_bus
             // 
-            this.btn_bus.Location = new System.Drawing.Point(426, 30);
+            this.btn_bus.Location = new System.Drawing.Point(437, 198);
             this.btn_bus.Name = "btn_bus";
             this.btn_bus.Size = new System.Drawing.Size(75, 23);
             this.btn_bus.TabIndex = 7;
@@ -114,7 +115,7 @@
             // 
             // btn_bus_todo
             // 
-            this.btn_bus_todo.Location = new System.Drawing.Point(548, 30);
+            this.btn_bus_todo.Location = new System.Drawing.Point(559, 198);
             this.btn_bus_todo.Name = "btn_bus_todo";
             this.btn_bus_todo.Size = new System.Drawing.Size(93, 25);
             this.btn_bus_todo.TabIndex = 8;
@@ -122,12 +123,23 @@
             this.btn_bus_todo.UseVisualStyleBackColor = true;
             this.btn_bus_todo.Click += new System.EventHandler(this.btn_bus_todo_Click);
             // 
+            // navegador1
+            // 
+            this.navegador1.BackColor = System.Drawing.Color.Transparent;
+            this.navegador1.Location = new System.Drawing.Point(13, 13);
+            this.navegador1.Margin = new System.Windows.Forms.Padding(4);
+            this.navegador1.Name = "navegador1";
+            this.navegador1.Size = new System.Drawing.Size(1418, 119);
+            this.navegador1.TabIndex = 9;
+            this.navegador1.Load += new System.EventHandler(this.navegador1_Load);
+            // 
             // frmEmpleado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(844, 348);
+            this.ClientSize = new System.Drawing.Size(1444, 522);
+            this.Controls.Add(this.navegador1);
             this.Controls.Add(this.btn_bus_todo);
             this.Controls.Add(this.btn_bus);
             this.Controls.Add(this.txt_codemp);
@@ -156,5 +168,6 @@
         private System.Windows.Forms.TextBox txt_codemp;
         private System.Windows.Forms.Button btn_bus;
         private System.Windows.Forms.Button btn_bus_todo;
+        private CapaVistaNavegador.Navegador navegador1;
     }
 }
