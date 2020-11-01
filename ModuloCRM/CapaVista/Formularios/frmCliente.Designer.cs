@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtEstado = new System.Windows.Forms.TextBox();
             this.lblEstado = new System.Windows.Forms.Label();
             this.txtFecCli = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -45,12 +45,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvCliente)).BeginInit();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtEstado
             // 
-            this.textBox1.Location = new System.Drawing.Point(534, 259);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(187, 22);
-            this.textBox1.TabIndex = 34;
+            this.txtEstado.Location = new System.Drawing.Point(534, 259);
+            this.txtEstado.Name = "txtEstado";
+            this.txtEstado.Size = new System.Drawing.Size(187, 22);
+            this.txtEstado.TabIndex = 34;
+            this.txtEstado.Tag = "estado";
             // 
             // lblEstado
             // 
@@ -68,6 +69,7 @@
             this.txtFecCli.Name = "txtFecCli";
             this.txtFecCli.Size = new System.Drawing.Size(187, 22);
             this.txtFecCli.TabIndex = 30;
+            this.txtFecCli.Tag = "fecha";
             // 
             // label1
             // 
@@ -85,6 +87,7 @@
             this.txtApeCli.Name = "txtApeCli";
             this.txtApeCli.Size = new System.Drawing.Size(158, 22);
             this.txtApeCli.TabIndex = 26;
+            this.txtApeCli.Tag = "apellido";
             // 
             // txtNomCli
             // 
@@ -92,6 +95,7 @@
             this.txtNomCli.Name = "txtNomCli";
             this.txtNomCli.Size = new System.Drawing.Size(158, 22);
             this.txtNomCli.TabIndex = 25;
+            this.txtNomCli.Tag = "nombre";
             // 
             // txtCodCli
             // 
@@ -99,6 +103,7 @@
             this.txtCodCli.Name = "txtCodCli";
             this.txtCodCli.Size = new System.Drawing.Size(158, 22);
             this.txtCodCli.TabIndex = 24;
+            this.txtCodCli.Tag = "codigo";
             // 
             // label3
             // 
@@ -172,6 +177,7 @@
             this.navegador1.Name = "navegador1";
             this.navegador1.Size = new System.Drawing.Size(1412, 129);
             this.navegador1.TabIndex = 35;
+            this.navegador1.Load += new System.EventHandler(this.navegador1_Load);
             // 
             // frmCliente
             // 
@@ -180,7 +186,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(1426, 467);
             this.Controls.Add(this.navegador1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtEstado);
             this.Controls.Add(this.lblEstado);
             this.Controls.Add(this.txtFecCli);
             this.Controls.Add(this.btnLimp);
@@ -203,7 +209,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtEstado;
         private System.Windows.Forms.Label lblEstado;
         private System.Windows.Forms.TextBox txtFecCli;
         private System.Windows.Forms.Button btnLimp;

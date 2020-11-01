@@ -7,3 +7,11 @@ D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo C
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaControlador\bin\Debug\CapaModelo.dll
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaControlador\bin\Debug\CapaModelo.pdb
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaControlador\obj\Debug\CapaControlador.pdb
