@@ -37,6 +37,9 @@
     <Reference Include="CapaVistaNavegador">
       <HintPath>..\..\Navegador\CapaVista\bin\Debug\CapaVistaNavegador.dll</HintPath>
     </Reference>
+    <Reference Include="CapaVistaSeguridad">
+      <HintPath>..\..\ObjetoSeguridad\CapaVistaSeguridad\bin\Debug\CapaVistaSeguridad.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -55,23 +58,23 @@
     <Compile Include="Formularios\Cotizaciones\frmCotizacion.Designer.cs">
       <DependentUpon>frmCotizacion.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\Cotizaciones\frmEmpleado.cs">
+    <Compile Include="Formularios\frmAbonos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Formularios\Cotizaciones\frmEmpleado.Designer.cs">
-      <DependentUpon>frmEmpleado.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Formularios\Cotizaciones\frmProducto.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Formularios\Cotizaciones\frmProducto.Designer.cs">
-      <DependentUpon>frmProducto.cs</DependentUpon>
+    <Compile Include="Formularios\frmAbonos.Designer.cs">
+      <DependentUpon>frmAbonos.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\frmCliente.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\frmCliente.Designer.cs">
       <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmCuentasPorCobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmCuentasPorCobrar.Designer.cs">
+      <DependentUpon>frmCuentasPorCobrar.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\frmFactura.cs">
       <SubType>Form</SubType>
@@ -113,7 +116,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Botones\ic_person_add_128_28581.png" />
-    <None Include="obj\Debug\build.force" />
     <None Include="obj\Debug\CapaVista.csproj.CopyComplete" />
     <None Include="obj\Debug\CapaVista.csproj.CoreCompileInputs.cache" />
     <None Include="obj\Debug\CapaVista.csproj.GenerateResource.cache" />
@@ -125,14 +127,14 @@
     <EmbeddedResource Include="Formularios\Cotizaciones\frmCotizacion.resx">
       <DependentUpon>frmCotizacion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\Cotizaciones\frmEmpleado.resx">
-      <DependentUpon>frmEmpleado.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\Cotizaciones\frmProducto.resx">
-      <DependentUpon>frmProducto.cs</DependentUpon>
+    <EmbeddedResource Include="Formularios\frmAbonos.resx">
+      <DependentUpon>frmAbonos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmCliente.resx">
       <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmCuentasPorCobrar.resx">
+      <DependentUpon>frmCuentasPorCobrar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmFactura.resx">
       <DependentUpon>frmFactura.cs</DependentUpon>
@@ -149,8 +151,6 @@
     <EmbeddedResource Include="MDIPadre.resx">
       <DependentUpon>MDIPadre.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="obj\Debug\CapaVista.Formularios.Cotizaciones.frmEmpleado.resources" />
-    <EmbeddedResource Include="obj\Debug\CapaVista.Formularios.Cotizaciones.frmProducto.resources" />
     <EmbeddedResource Include="obj\Debug\CapaVista.Formularios.frmCliente.resources" />
     <EmbeddedResource Include="obj\Debug\CapaVista.Formularios.frmCotizacion.resources" />
     <EmbeddedResource Include="obj\Debug\CapaVista.Formularios.frmVendedor.resources" />

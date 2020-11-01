@@ -65,6 +65,7 @@
             this.txtPedido.Name = "txtPedido";
             this.txtPedido.Size = new System.Drawing.Size(150, 22);
             this.txtPedido.TabIndex = 40;
+            this.txtPedido.Tag = "pk_idpedidos";
             // 
             // lblPedido
             // 
@@ -93,6 +94,7 @@
             this.dtpPedido.Name = "dtpPedido";
             this.dtpPedido.Size = new System.Drawing.Size(200, 22);
             this.dtpPedido.TabIndex = 32;
+            this.dtpPedido.Tag = "fecha_pedido";
             // 
             // txtEmp
             // 
@@ -100,6 +102,7 @@
             this.txtEmp.Name = "txtEmp";
             this.txtEmp.Size = new System.Drawing.Size(138, 22);
             this.txtEmp.TabIndex = 31;
+            this.txtEmp.Tag = "idempleado";
             // 
             // txtEstado
             // 
@@ -107,6 +110,7 @@
             this.txtEstado.Name = "txtEstado";
             this.txtEstado.Size = new System.Drawing.Size(138, 22);
             this.txtEstado.TabIndex = 30;
+            this.txtEstado.Tag = "estado_pedido";
             // 
             // txtProd
             // 
@@ -114,6 +118,7 @@
             this.txtProd.Name = "txtProd";
             this.txtProd.Size = new System.Drawing.Size(138, 22);
             this.txtProd.TabIndex = 29;
+            this.txtProd.Tag = "idproducto";
             // 
             // txtCant
             // 
@@ -121,6 +126,7 @@
             this.txtCant.Name = "txtCant";
             this.txtCant.Size = new System.Drawing.Size(134, 22);
             this.txtCant.TabIndex = 28;
+            this.txtCant.Tag = "cantidad";
             // 
             // txtNom
             // 
@@ -128,6 +134,7 @@
             this.txtNom.Name = "txtNom";
             this.txtNom.Size = new System.Drawing.Size(134, 22);
             this.txtNom.TabIndex = 27;
+            this.txtNom.Tag = "nombre_pedido";
             // 
             // lblEmp
             // 
@@ -197,6 +204,7 @@
             this.navegador1.Name = "navegador1";
             this.navegador1.Size = new System.Drawing.Size(1412, 129);
             this.navegador1.TabIndex = 42;
+            this.navegador1.Load += new System.EventHandler(this.navegador1_Load);
             // 
             // frmPedidos
             // 

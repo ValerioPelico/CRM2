@@ -33,11 +33,12 @@
             this.mantenimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.vendedorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pedidoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pedidoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,16 +77,23 @@
             // clienteToolStripMenuItem
             // 
             this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
-            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(156, 26);
             this.clienteToolStripMenuItem.Text = "Cliente";
             this.clienteToolStripMenuItem.Click += new System.EventHandler(this.clienteToolStripMenuItem_Click);
             // 
             // vendedorToolStripMenuItem
             // 
             this.vendedorToolStripMenuItem.Name = "vendedorToolStripMenuItem";
-            this.vendedorToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.vendedorToolStripMenuItem.Size = new System.Drawing.Size(156, 26);
             this.vendedorToolStripMenuItem.Text = "Vendedor";
             this.vendedorToolStripMenuItem.Click += new System.EventHandler(this.vendedorToolStripMenuItem_Click);
+            // 
+            // pedidoToolStripMenuItem
+            // 
+            this.pedidoToolStripMenuItem.Name = "pedidoToolStripMenuItem";
+            this.pedidoToolStripMenuItem.Size = new System.Drawing.Size(156, 26);
+            this.pedidoToolStripMenuItem.Text = "Pedido";
+            this.pedidoToolStripMenuItem.Click += new System.EventHandler(this.pedidoToolStripMenuItem_Click);
             // 
             // procesosToolStripMenuItem
             // 
@@ -111,18 +119,20 @@
             this.ayudaToolStripMenuItem.Size = new System.Drawing.Size(65, 24);
             this.ayudaToolStripMenuItem.Text = "Ayuda";
             // 
-            // pedidoToolStripMenuItem
+            // textBox1
             // 
-            this.pedidoToolStripMenuItem.Name = "pedidoToolStripMenuItem";
-            this.pedidoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.pedidoToolStripMenuItem.Text = "Pedido";
-            this.pedidoToolStripMenuItem.Click += new System.EventHandler(this.pedidoToolStripMenuItem_Click);
+            this.textBox1.Enabled = false;
+            this.textBox1.Location = new System.Drawing.Point(103, 124);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
+            this.textBox1.TabIndex = 3;
             // 
             // MDIPadre
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
@@ -148,5 +158,6 @@
         private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ayudaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pedidoToolStripMenuItem;
+        private System.Windows.Forms.TextBox textBox1;
     }
 }

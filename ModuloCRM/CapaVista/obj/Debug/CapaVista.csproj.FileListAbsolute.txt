@@ -16,3 +16,115 @@ D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo C
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCliente.resources
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmVendedor.resources
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Modulo CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCotizacion.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCliente.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.factura.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmPedidos.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmVendedor.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.venta.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.MDIPadre.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVista.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVista.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaNavegador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModelo.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaReporteador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorNavegador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloReporteador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorReporteador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloNavegador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\stdole.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaReporteador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloReporteador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorReporteador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Proyecto\Programa\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaNavegador.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaReporteador.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorNavegador.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloReporteador.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorReporteador.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloNavegador.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\stdole.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCotizacion.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmCliente.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.factura.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmPedidos.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Formularios.frmVendedor.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.venta.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.MDIPadre.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\dairy\Desktop\Prueba CRM\CRM\ModuloCRM\CapaVista\obj\Debug\CapaVista.pdb

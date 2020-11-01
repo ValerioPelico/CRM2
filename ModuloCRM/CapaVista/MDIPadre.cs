@@ -1,4 +1,5 @@
 ﻿using CapaVista.Formularios;
+using CapaVistaSeguridad;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -20,28 +21,67 @@ namespace CapaVista
 
         private void MDIPadre_Load(object sender, EventArgs e)
         {
-
+            frmLogin login = new frmLogin();
+            login.ShowDialog();
+            textBox1.Text = login.usuario();
         }
 
         private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmCliente cli = new frmCliente();
-            cli.MdiParent = this;
-            cli.Show();
+
+            clsVistaBitacora bit = new clsVistaBitacora();
+            clsFuncionesSeguridad seguridad = new clsFuncionesSeguridad();
+            //el numero 1 se debe cambiar por el numero de la aplicacion que se tiene asignado en la base de datos 
+            if (seguridad.PermisosAcceso("1", textBox1.Text) == 1)
+            {
+                bit.user(textBox1.Text);
+                // SE DEBE CAMBIAR BANCO POR EL FORMULARIO QUE SE DESEA ABRIR
+                frmCliente variable = new frmCliente(textBox1.Text, this);
+                variable.MdiParent = this;
+                variable.Show();
+            }
+            else
+            {
+                MessageBox.Show("El Usuario No Cuenta Con Permisos De Acceso A La Aplicación");
+            }
         }
 
         private void vendedorToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmVendedor ven = new frmVendedor();
-            ven.MdiParent = this;
-            ven.Show();
+            clsVistaBitacora bit = new clsVistaBitacora();
+            clsFuncionesSeguridad seguridad = new clsFuncionesSeguridad();
+            //el numero 1 se debe cambiar por el numero de la aplicacion que se tiene asignado en la base de datos 
+            if (seguridad.PermisosAcceso("1", textBox1.Text) == 2)
+            {
+                bit.user(textBox1.Text);
+                // SE DEBE CAMBIAR BANCO POR EL FORMULARIO QUE SE DESEA ABRIR
+                frmVendedor variable = new frmVendedor(textBox1.Text, this);
+                variable.MdiParent = this;
+                variable.Show();
+            }
+            else
+            {
+                MessageBox.Show("El Usuario No Cuenta Con Permisos De Acceso A La Aplicación");
+            }
         }
 
         private void pedidoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmPedidos ped = new frmPedidos();
-            ped.MdiParent = this;
-            ped.Show();
+            clsVistaBitacora bit = new clsVistaBitacora();
+            clsFuncionesSeguridad seguridad = new clsFuncionesSeguridad();
+            //el numero 1 se debe cambiar por el numero de la aplicacion que se tiene asignado en la base de datos 
+            if (seguridad.PermisosAcceso("1", textBox1.Text) == 1)
+            {
+                bit.user(textBox1.Text);
+                // SE DEBE CAMBIAR BANCO POR EL FORMULARIO QUE SE DESEA ABRIR
+                frmPedidos variable = new frmPedidos(textBox1.Text, this);
+                variable.MdiParent = this;
+                variable.Show();
+            }
+            else
+            {
+                MessageBox.Show("El Usuario No Cuenta Con Permisos De Acceso A La Aplicación");
+            }
         }
     }
 }

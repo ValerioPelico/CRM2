@@ -1,5 +1,4 @@
-﻿using CapaVista.Formularios.Cotizaciones;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,7 +16,7 @@ namespace CapaVista.Formularios
         {
             InitializeComponent();
             txtCodEmp.Enabled = false;
-            txtNomEmp.Enabled = false;
+            // txtNomEmp.Enabled = false;
             txtCodProd.Enabled = false;
             txtNomProd.Enabled = false;
             txtPrecProd.Enabled = false;
@@ -31,19 +30,19 @@ namespace CapaVista.Formularios
 
         private void button1_Click(object sender, EventArgs e)
         {
-            frmEmpleado frm = new frmEmpleado();
+            /*frmEmpleado frm = new frmEmpleado();
 
             this.Hide();
 
-            frm.Show();
+            frm.Show();*/
         }
 
         private void btn_prod_Click(object sender, EventArgs e)
         {
-            frmProducto fp = new frmProducto();
+            /*frmProducto fp = new frmProducto();
 
             this.Hide();
-            fp.Show();
+            fp.Show();*/
         }
     }
 }

@@ -25,7 +25,7 @@ namespace CapaVista
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            Cls_aplicacion app = new Cls_aplicacion();
+            //Cls_aplicacion app = new Cls_aplicacion();
             //app.variables(txt_nombre_aplicacion.Text, txt_informe_de_aplicacion.Text);
         }
 
